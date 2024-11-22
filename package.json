@@ -1,0 +1,23 @@
+{
+  "name": "dex",
+  "version": "1.0.0",
+  "description": "Exchange Descentralizado Simple con Pool de Liquidez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferwargit/dex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferwargit/dex/issues"
+  },
+  "homepage": "https://github.com/ferwargit/dex#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0"
+  }
+}
